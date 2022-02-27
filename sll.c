@@ -114,7 +114,7 @@ void insertpos()
 void main()
 {
     int ch;
-    clrscr();
+    //clrscr();
     while(ch!=6)
     {
 	printf("1.Create.\n2.Insert at Begining of the list.\n3.Insert at given postion.\n4. Insert at End of the list.\n5.Display.\n6.Exit.\n");
